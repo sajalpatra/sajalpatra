@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajalpatra" alt="sajalpatra" /></a> </p>
 
-- 🌱 I’m currently learning **Framework**
+- 🌱 I’m currently learning **Ai/Ml and DataScience**
 
 - 💬 Ask me about **react,Next.js,Dsa,FastApi,MERN stack,DataScience,Sql**
 
