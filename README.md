@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Framework**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react,Next.js,Dsa,FastApi,MERN stack,DataScience,Sql**
 
 - 📫 How to reach me **sajalpatra978@gmail.com**
 
